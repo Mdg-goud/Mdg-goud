@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mdg-goud
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning basics of security, latest cybersecurity tools
+- 👀 I’m interested in front end development
+- 🌱 I’m currently learning basics of coding, programming languages and other important stuff 
 
 
 <!---
